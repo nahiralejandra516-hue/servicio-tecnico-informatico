@@ -1,0 +1,6 @@
+{
+  "name": "TecniFix - Sistema de Servicio Técnico Informático",
+  "description": "Sistema integral de gestión para taller de servicio técnico informático con control de clientes, equipos, órdenes de reparación, reglas de negocio y conexión a Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
